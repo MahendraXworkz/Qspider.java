@@ -23,6 +23,7 @@ public Emp( String name, double sal) throws IOException {
 	super();
 	this.name = name;
 	this.sal = sal;
+	//to export object automatically after creating
 	//writeObject();
 }
 
